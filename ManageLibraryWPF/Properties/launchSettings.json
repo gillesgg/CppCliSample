@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ManageLibraryWPF": {
+      "commandName": "Executable",
+      "executablePath": "D:\\DEV\\DEV.DS.2020\\XAMLProto\\CppCliMigrationSample-netcore5\\Debug\\NativeApp.exe"
+    }
+  }
+}
